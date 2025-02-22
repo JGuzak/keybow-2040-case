@@ -1,20 +1,16 @@
 # Keybow 2040 Case
 
-![assembled keybow 2040 case](images/assembled_1.jpg)
-
-TODOs:
-
-- Design tweaks
-- Photoshoot
-- Document assembly process
-
 3D printable case for [Keybow 2040](https://shop.pimoroni.com/products/keybow-2040)
+
+![assembled keybow 2040 case](images/assembled_1.png)
 
 ## BOM
 
-![BOM picture](images/bom.jpg)
+![BOM picture](images/bom.png)
 
 - Keybow 2040 `*`
+- 16x key switches `*`
+- 16x key caps `*`
 - 4x M2 screws `*`
 - 4x M2 heatset inserts
 - Printed case
@@ -27,29 +23,28 @@ TODOs:
 
 1. Set a soldering iron to the recommended temperature depending on the material of choice (I use 240 degrees F for PLA)
 2. Place an M2 heat set insert into a standoff hole, slowly press soldering iron into insert. Continue until the surface of the insert is flush with the standoff surface
-
-![Step 2 case assembly image](images/case_assembly_2.jpg)
-
 3. Repeat for the remaining 3 inserts.
 
-![Step 3 case assembly image](images/case_assembly_3.jpg)
+![Case assembly image](images/case_assembly_1.png)
 
 ## Device Assembly
 
-*Under construction*
+1. Insert main pcba into the case. Surface mounted parts should be facing down and usb port should align with the cutout in the case.
 
-1. Insert main pcba into the case (Surface mounted parts should be facing down).
+![Step 1 image](images/assembly_1.png)
 
-![Step 1 image](images/assembly_1.jpg)
+2. Insert and tighten the 4x M2 screws.
 
-2. Insert and tighten the 4 M2 screws.
+![Step 2 image](images/assembly_2.png)
 
-![Step 2 image](images/assembly_2.jpg)
+3. Orient the switch panel and insert key switches. Make sure all key switches are oriented correctly (Gap on the key switch should be facing the side of the main pcb with USB-C and buttons).
 
-3. Orient the switch panel to align with the holes on the main pcba.
-
-![Step 3 image](images/assembly_3.jpg)
+![Step 3 image](images/assembly_3.png)
 
 4. Slowly but firmly press switches into the main pcba until all four corners of the switch panelare flush with the case.
 
-![Step 4 image](images/assembly_4.jpg)
+![Step 4 image](images/assembly_4.png)
+
+5. Press key caps onto the switches
+
+![Step 5 image](images/assembly_5.png)
