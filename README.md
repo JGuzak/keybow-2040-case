@@ -13,6 +13,7 @@
 - 16x key caps `*`
 - 4x M2 screws `*`
 - 4x M2 heatset inserts
+- 4x 20x2mm circular rubber feet
 - Printed case
 
 *Items marked with `*` are included in the Keybow 2040 kit.*
@@ -21,11 +22,18 @@
 
 *If you have specialized iron tips for heatset inserts, swap in an M2 insert.*
 
-1. Set a soldering iron to the recommended temperature depending on the material of choice (I use 240 degrees F for PLA)
-2. Place an M2 heat set insert into a standoff hole, slowly press soldering iron into insert. Continue until the surface of the insert is flush with the standoff surface
-3. Repeat for the remaining 3 inserts.
+It's recommended to print the case oriented with the rubber feet facing down. Add supports for the rubber feet spaces and USB-C port
 
-![Case assembly image](images/case_assembly_1.png)
+1. Remove supports from the print
+2. Set a soldering iron to the recommended temperature depending on the material of choice (I use 240 degrees F for PLA)
+3. Place an M2 heat set insert into a standoff hole, slowly press soldering iron into insert. Continue until the surface of the insert is flush with the standoff surface
+4. Repeat for the remaining 3 inserts.
+
+![Case assembly image 1](images/case_assembly_1.png)
+
+5. Add rubber feet into the spaces on the bottom of the case
+
+![Case assembly image 2](images/case_assembly_2.png)
 
 ## Device Assembly
 
